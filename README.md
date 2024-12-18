@@ -1,0 +1,1 @@
+projeto de automação para aprender melhores práticas com notas
