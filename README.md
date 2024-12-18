@@ -1,1 +1,1 @@
-projeto de automação para aprender melhores práticas com notas
+projeto de automação de teste de software, usando cypress, com o objetivo de para aprender melhores práticas com notas descritivas. 
